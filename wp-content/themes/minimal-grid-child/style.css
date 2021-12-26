@@ -1,0 +1,16 @@
+/*
+Theme Name: Minimal Grid Child
+Template: minimal-grid
+
+*/
+
+@import url("../minimal-grid/style.css");
+
+.menu-panel {
+    width: 335px;
+}
+@media screen and (min-width: 992px) {
+    body.extended-menu .site-content {
+        margin-left: 385px;
+    }
+}
