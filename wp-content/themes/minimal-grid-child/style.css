@@ -9,8 +9,13 @@ Template: minimal-grid
 .menu-panel {
     width: 335px;
 }
+
 @media screen and (min-width: 992px) {
     body.extended-menu .site-content {
         margin-left: 385px;
     }
+}
+
+.wp-custom-logo .menu-panel .site-branding {
+    max-width: 335px;
 }
