@@ -1,0 +1,7 @@
+input.groupid {
+	margin-left: 10px;
+}
+select#level {
+	width: 100%;
+	width: -webkit-fill-available;
+}

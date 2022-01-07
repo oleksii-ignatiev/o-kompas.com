@@ -14,6 +14,24 @@ use LiteSpeed\Admin_Display;
 use LiteSpeed\File;
 
 /**
+ * Add expired to url_file table
+ * @since 4.4.4
+ */
+function litespeed_update_4_4_4() {
+	global $wpdb;
+	Debug2::debug( "[Data] Upgrade url_file table" );
+	$tb_exists = $wpdb->get_var( 'SHOW TABLES LIKE "' . $wpdb->prefix . 'litespeed_url_file"' );
+	if ( $tb_exists ) {
+		$q = 'ALTER TABLE `' . $wpdb->prefix . 'litespeed_url_file`
+				ADD COLUMN `expired` int(11) NOT NULL DEFAULT 0,
+				ADD KEY `filename_2` (`filename`,`expired`),
+				ADD KEY `url_id` (`url_id`,`expired`)
+			';
+		$wpdb->query( $q );
+	}
+}
+
+/**
  * Drop cssjs table and rm cssjs folder
  * @since 4.3
  */
@@ -374,13 +392,13 @@ function litespeed_update_3_0( $ver ) {
 		// 'css_inline_minify'		=> 'optm-css_inline_min',
 		'css_combine'			=> 'optm-css_comb',
 		// 'css_combined_priority'	=> 'optm-css_comb_priority',
-		'css_http2'				=> 'optm-css_http2',
+		// 'css_http2'				=> 'optm-css_http2',
 		'css_exclude' 			=> 'optm-css_exc',
 		'js_minify'				=> 'optm-js_min',
 		// 'js_inline_minify'		=> 'optm-js_inline_min',
 		'js_combine'			=> 'optm-js_comb',
 		// 'js_combined_priority'	=> 'optm-js_comb_priority',
-		'js_http2'				=> 'optm-js_http2',
+		// 'js_http2'				=> 'optm-js_http2',
 		'js_exclude' 			=> 'optm-js_exc',
 		// 'optimize_ttl'			=> 'optm-ttl',
 		'html_minify'			=> 'optm-html_min',

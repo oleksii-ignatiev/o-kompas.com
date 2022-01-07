@@ -1,0 +1,1314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Orienteering Club Management\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-29 07:02+0000\n"
+"PO-Revision-Date: 2021-12-31 09:41+0000\n"
+"Last-Translator: Oleksii Ignatiev\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: o-kompas"
+
+#: code/competitors.php:60
+msgid "Add competitors for members in selected category"
+msgstr ""
+
+#: code/invoices.php:87
+msgid "Add invoices for members in selected category"
+msgstr ""
+
+#: code/matches.php:60
+msgid "Add matches for selected competition"
+msgstr ""
+
+#: code/competitions.php:42 code/competitions.php:43
+msgid "Add New Competition"
+msgstr "Добавить новое соревнование"
+
+#: code/competitions.php:24
+msgid "Add New Competition Category"
+msgstr ""
+
+#: code/compgroups.php:39 code/compgroups.php:40
+msgid "Add New Competition Group"
+msgstr "Добавить Новую Группу Соревнования"
+
+#: code/compgroups.php:21
+msgid "Add New Competition Group Category"
+msgstr ""
+
+#: code/competitors.php:11 code/competitors.php:12
+msgid "Add New Competitor"
+msgstr "Добавить Нового Участника"
+
+#: code/competitions.php:135
+msgid "Add New Competitors"
+msgstr "Добавить Новых Участников"
+
+#: code/invoices.php:35 code/invoices.php:36
+msgid "Add New Invoice"
+msgstr ""
+
+#: code/invoices.php:17
+msgid "Add New Invoice Category"
+msgstr ""
+
+#: code/matches.php:11 code/matches.php:12
+msgid "Add New Match"
+msgstr ""
+
+#: code/competitions.php:155
+msgid "Add New Matches"
+msgstr ""
+
+#: code/members.php:32 code/members.php:33
+msgid "Add New Member"
+msgstr ""
+
+#: code/members.php:14
+msgid "Add New Member Club"
+msgstr ""
+
+#: code/teamplayers.php:11 code/teamplayers.php:12
+msgid "Add New Team Player"
+msgstr ""
+
+#: code/teamplayers.php:60
+msgid "Add team players for members in selected category"
+msgstr ""
+
+#: code/members.php:203
+msgid "Additional field names to be used"
+msgstr ""
+
+#: code/members.php:625 code/members_export.php:15
+msgid "Age"
+msgstr ""
+
+#: orient_club_management.php:176 orient_club_management.php:177
+#: orient_club_management.php:206
+msgid "All Clubs"
+msgstr ""
+
+#: code/competitions.php:19
+msgid "All Competition Categories"
+msgstr ""
+
+#: code/compgroups.php:16
+msgid "All Competition Group Categories"
+msgstr ""
+
+#: code/invoices.php:12
+msgid "All Invoice Categories"
+msgstr ""
+
+#: code/members.php:9
+msgid "All Member Clubs"
+msgstr ""
+
+#: code/invoices.php:148 code/invoices.php:261 code/invoices.php:390
+#: code/invoices_shortcodes.php:51 code/invoices_shortcodes.php:58
+#: code/invoices_shortcodes.php:65
+msgid "Amount"
+msgstr ""
+
+#: code/invoices.php:423 code/invoices.php:483
+msgid "amount"
+msgstr ""
+
+#: code/competitionformat_individual.php:98
+msgid "Average Sum"
+msgstr ""
+
+#: code/members_widgets.php:18
+msgid "Birthdays"
+msgstr ""
+
+#: code/competitionformat_knockout.php:385
+#: code/competitionformat_knockout.php:421
+#: code/competitionformat_knockout.php:434
+msgid "bye"
+msgstr ""
+
+#: code/invoices.php:149
+msgid "C/D"
+msgstr ""
+
+#: code/competitions.php:355 code/invoices_categories_page.php:8
+#: code/members.php:565
+msgid "Categories"
+msgstr ""
+
+#: code/invoices.php:484
+msgid "categories"
+msgstr ""
+
+#: code/competitions.php:239 code/compgroups.php:171 code/invoices.php:262
+msgid "Category"
+msgstr ""
+
+#: code/invoices.php:212 code/members.php:152 code/members.php:470
+#: code/members.php:566
+msgid "Cell"
+msgstr ""
+
+#: code/members.php:211 code/members.php:662
+msgid "cell"
+msgstr ""
+
+#: code/members.php:150 code/members.php:464 code/members.php:563
+msgid "City"
+msgstr ""
+
+#: code/members.php:207 code/members.php:659
+msgid "city"
+msgstr ""
+
+#: code/members.php:324
+msgid "Club"
+msgstr "Клуб"
+
+#: orient_club_management.php:242
+msgid "Club Management"
+msgstr ""
+
+#: code/competitionformat_knockout.php:101
+#: code/competitionformat_knockout.php:104 code/competitions.php:41
+#: code/competitions.php:354 code/competitors.php:146 code/competitors.php:293
+#: code/matches.php:136 code/matches.php:220 code/teamplayers.php:209
+msgid "Competition"
+msgstr "Соревнования"
+
+#: code/competitions.php:16 code/competitions.php:26
+msgid "Competition Categories"
+msgstr ""
+
+#: code/competitions.php:17
+msgid "Competition Category"
+msgstr ""
+
+#: code/competitions.php:91
+msgid "Competition Data"
+msgstr ""
+
+#: code/competitions.php:122 code/competitions.php:238 code/matches.php:152
+msgid "Competition format"
+msgstr "Формат Соревнования"
+
+#: code/competitions.php:354 code/compgroups.php:38
+msgid "Competition Group"
+msgstr ""
+
+#: code/competitions.php:127 code/competitions.php:237
+msgid "Competition group"
+msgstr "Группы Соревнования"
+
+#: code/compgroups.php:13 code/compgroups.php:23
+msgid "Competition Group Categories"
+msgstr ""
+
+#: code/compgroups.php:14
+msgid "Competition Group Category"
+msgstr ""
+
+#: code/compgroups.php:88
+msgid "Competition Group Data"
+msgstr ""
+
+#: code/compgroups.php:37 code/compgroups.php:48
+msgid "Competition Groups"
+msgstr ""
+
+#: code/competitions.php:40 code/competitions.php:51
+#: code/competitions_categories_page.php:5 code/compgroups.php:91
+msgid "Competitions"
+msgstr ""
+
+#: code/competitionformat_knockout.php:101 code/competitors.php:10
+msgid "Competitor"
+msgstr ""
+
+#: code/matches.php:289
+msgid "Competitor 1"
+msgstr ""
+
+#: code/matches.php:289
+msgid "Competitor 2"
+msgstr ""
+
+#: code/competitors.php:58
+msgid "Competitor Data"
+msgstr ""
+
+#: code/competitors.php:346
+msgid "Competitor type"
+msgstr ""
+
+#: code/competitors.php:9 code/competitors.php:20 code/matches.php:123
+#: code/matches.php:221
+msgid "Competitors"
+msgstr ""
+
+#: code/competitors.php:158 code/invoices.php:162 code/matches.php:144
+#: code/members.php:175 code/teamplayers.php:128
+msgid "Confirm"
+msgstr ""
+
+#: code/bulk_import.php:27
+msgid "Confirm creation of listed entries"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create members, competitions etc. for your club. Easy to manage and to "
+"publish on your site."
+msgstr ""
+
+#: code/competitors.php:159 code/invoices.php:163 code/matches.php:145
+#: code/members.php:176 code/teamplayers.php:129
+msgid "Creating entries"
+msgstr ""
+
+#: code/invoices.php:150
+msgid "Credit"
+msgstr ""
+
+#: code/invoices.php:429 code/invoices.php:483
+msgid "credit/debet"
+msgstr ""
+
+#: code/members.php:189
+msgid "CSV file"
+msgstr ""
+
+#: code/members.php:195
+msgid "CSV file must have field names in first row"
+msgstr ""
+
+#: code/invoices_options_settings.php:54 code/members_options_settings.php:74
+msgid "Custom values"
+msgstr ""
+
+#: code/members.php:482
+msgid "custom1"
+msgstr ""
+
+#: code/members.php:484
+msgid "custom2"
+msgstr ""
+
+#: code/members.php:486
+msgid "custom3"
+msgstr ""
+
+#: code/members.php:488
+msgid "custom4"
+msgstr ""
+
+#: code/matches.php:223 code/matches.php:288
+msgid "Date"
+msgstr ""
+
+#: code/members.php:154 code/members.php:472 code/members.php:624
+#: code/members_export.php:15 code/members_shortcodes.php:82
+msgid "Date of birth"
+msgstr "Дата Рождения"
+
+#: code/members.php:212 code/members.php:663
+msgid "date of birth"
+msgstr "дата рождения"
+
+#: code/invoices.php:144 code/invoices.php:390
+msgid "Date of issue"
+msgstr ""
+
+#: code/invoices.php:260
+msgid "Date of Payment"
+msgstr ""
+
+#: code/invoices.php:146 code/invoices.php:390
+msgid "Date of payment"
+msgstr ""
+
+#: code/invoices.php:151
+msgid "Debet"
+msgstr ""
+
+#: code/competitors.php:156 code/invoices.php:160 code/matches.php:142
+#: code/teamplayers.php:126
+msgid "Define entries"
+msgstr ""
+
+#: code/invoices.php:261
+msgid "Description"
+msgstr ""
+
+#: code/competitionformat_league.php:92 code/competitionformat_league.php:101
+msgid "Diff"
+msgstr ""
+
+#: code/competitionformat_league.php:331
+msgid "Disable Ranking"
+msgstr ""
+
+#: code/members_options_settings.php:69
+msgid "Display address, e-mail, and phone numbers of other members"
+msgstr ""
+
+#: code/competitors.php:184
+msgid "Display format"
+msgstr ""
+
+#: code/members_options_settings.php:65
+msgid "Display privacy related data of other members"
+msgstr ""
+
+#: code/competitors.php:142 code/competitors.php:292
+msgid "Disqualified"
+msgstr ""
+
+#: code/bulk_import.php:53
+msgid "Done"
+msgstr ""
+
+#: code/invoices.php:259
+msgid "Due Date"
+msgstr ""
+
+#: code/invoices.php:145 code/invoices.php:390 code/invoices_shortcodes.php:53
+#: code/invoices_shortcodes.php:69 code/invoices_shortcodes.php:76
+msgid "Due date"
+msgstr ""
+
+#: code/invoices.php:420 code/invoices.php:481
+msgid "due date"
+msgstr ""
+
+#: code/invoices.php:209 code/members.php:153 code/members.php:466
+#: code/members.php:564 code/members_shortcodes.php:77
+msgid "E-mail"
+msgstr ""
+
+#: code/members.php:209 code/members.php:660
+msgid "e-mail"
+msgstr ""
+
+#: code/competitions.php:44
+msgid "Edit Competition"
+msgstr ""
+
+#: code/competitions.php:22
+msgid "Edit Competition Category"
+msgstr ""
+
+#: code/compgroups.php:41
+msgid "Edit Competition Group"
+msgstr ""
+
+#: code/compgroups.php:19
+msgid "Edit Competition Group Category"
+msgstr ""
+
+#: code/competitors.php:13
+msgid "Edit Competitor"
+msgstr ""
+
+#: code/invoices.php:37
+msgid "Edit Invoice"
+msgstr ""
+
+#: code/invoices.php:15
+msgid "Edit Invoice Category"
+msgstr ""
+
+#: code/matches.php:13
+msgid "Edit Match"
+msgstr ""
+
+#: code/members.php:34
+msgid "Edit Member"
+msgstr ""
+
+#: code/members.php:12
+msgid "Edit Member Club"
+msgstr ""
+
+#: code/teamplayers.php:13
+msgid "Edit Team Player"
+msgstr ""
+
+#: code/members.php:480
+msgid "End date"
+msgstr ""
+
+#: code/members.php:216 code/members.php:667
+msgid "end date"
+msgstr ""
+
+#: code/members.php:165 code/members.php:629 code/members_export.php:17
+#: code/members_shortcodes.php:123
+msgid "End date membership"
+msgstr ""
+
+#: code/members.php:227
+msgid "english"
+msgstr ""
+
+#: code/competitors.php:186 code/competitors.php:191 code/competitors.php:196
+msgid "example"
+msgstr ""
+
+#: code/members.php:227
+msgid "example file"
+msgstr ""
+
+#: code/competitions_export.php:25
+msgid "Export Competitions"
+msgstr ""
+
+#: code/competitions_export.php:31
+msgid "Export Competitions to File"
+msgstr ""
+
+#: orient_club_management.php:183 orient_club_management.php:184
+#: code/members_export.php:36
+msgid "Export Data"
+msgstr ""
+
+#: code/invoices_export.php:25
+msgid "Export Invoices"
+msgstr ""
+
+#: code/invoices_export.php:31
+msgid "Export Invoices to File"
+msgstr ""
+
+#: code/members_export.php:44
+msgid "Export Members"
+msgstr ""
+
+#: code/members_export.php:50
+msgid "Export Members to File"
+msgstr ""
+
+#: code/members.php:157
+msgid "Female"
+msgstr "Женский"
+
+#: code/members.php:198
+msgid "Field names must include"
+msgstr ""
+
+#: code/members.php:221
+msgid "Fields must be seperated by a comma"
+msgstr ""
+
+#: code/competitionformat_knockout.php:225
+#: code/competitionformat_knockout.php:236
+#: code/competitionformat_knockout.php:294
+#: code/competitionformat_knockout.php:298
+msgid "finalist"
+msgstr ""
+
+#: code/members.php:146 code/members.php:456 code/members.php:562
+msgid "First name"
+msgstr "Имя"
+
+#: code/members.php:199 code/members.php:654
+msgid "first name"
+msgstr "имя"
+
+#: code/members.php:155 code/members.php:474 code/members.php:626
+#: code/members_export.php:16
+msgid "Gender"
+msgstr "Пол"
+
+#: code/members.php:213 code/members.php:664
+msgid "gender"
+msgstr "пол"
+
+#: orient_club_management.php:190 orient_club_management.php:191
+#: orient_club_management.php:242
+msgid "General Options"
+msgstr ""
+
+#: code/invoices_options_settings.php:50
+msgid "Granted"
+msgstr ""
+
+#: code/compgroups.php:107 code/compgroups.php:170
+msgid "Group Format"
+msgstr ""
+
+#: code/members.php:85
+msgid "Import Members from a CSV file"
+msgstr ""
+
+#: code/invoices_options_settings.php:47
+msgid "Include invoices"
+msgstr ""
+
+#: code/competitionformat_individual.php:38
+#: code/competitionformat_individual.php:46 code/matches.php:163
+msgid "Individual"
+msgstr ""
+
+#: code/invoices.php:34 code/invoices_categories_page.php:8
+msgid "Invoice"
+msgstr ""
+
+#: code/invoices.php:9 code/invoices.php:19
+msgid "Invoice Categories"
+msgstr ""
+
+#: code/invoices.php:10
+msgid "Invoice Category"
+msgstr ""
+
+#: code/invoices.php:85
+msgid "Invoice Data"
+msgstr ""
+
+#: code/invoices.php:189
+msgid "Invoice name is prefix.date-of-issue.####"
+msgstr ""
+
+#: code/invoices_options_settings.php:42
+msgid "Invoice Options"
+msgstr ""
+
+#: code/invoices_options_settings.php:20
+msgid "Invoice options saved."
+msgstr ""
+
+#: code/invoices.php:187
+msgid "Invoice prefix"
+msgstr ""
+
+#: code/invoices.php:33 code/invoices.php:44 code/invoices.php:375
+#: code/invoices_categories_page.php:5 code/invoices_export.php:9
+msgid "Invoices"
+msgstr ""
+
+#: code/invoices.php:417 code/invoices.php:481
+msgid "issue date"
+msgstr ""
+
+#: code/competitionformat_knockout.php:37
+#: code/competitionformat_knockout.php:45 code/matches.php:160
+msgid "Knockout"
+msgstr ""
+
+#: code/matches.php:166
+msgid "Ladder"
+msgstr ""
+
+#: code/competitionformat_league.php:30 code/competitionformat_league.php:38
+#: code/matches.php:155
+msgid "League"
+msgstr ""
+
+#: code/competitionformat_individual.php:117
+msgid "Less is better"
+msgstr ""
+
+#: code/members.php:159 code/members.php:476 code/members.php:627
+#: code/members_export.php:16 code/members_shortcodes.php:87
+msgid "Level"
+msgstr ""
+
+#: code/members.php:214 code/members.php:665
+msgid "level"
+msgstr ""
+
+#: code/compgroupformat_list.php:16 code/compgroupformat_list.php:24
+msgid "List"
+msgstr ""
+
+#: code/members_widgets.php:21
+msgid "List of member's birthdays"
+msgstr ""
+
+#: code/members.php:323
+msgid "Mail"
+msgstr ""
+
+#: code/members.php:156
+msgid "Male"
+msgstr "Мужской"
+
+#: code/competitionformat_individual.php:86 code/matches.php:10
+msgid "Match"
+msgstr ""
+
+#: code/matches.php:58
+msgid "Match Data"
+msgstr ""
+
+#: code/competitionformat_individual.php:101
+#: code/competitionformat_individual.php:112 code/competitions.php:94
+#: code/competitions_export.php:9 code/matches.php:9 code/matches.php:20
+msgid "Matches"
+msgstr ""
+
+#: code/competitors.php:127 code/competitors.php:291 code/invoices.php:143
+#: code/members.php:31 code/members_categories_page.php:8
+#: code/teamplayers.php:113 code/teamplayers.php:207
+msgid "Member"
+msgstr ""
+
+#: code/invoices.php:170
+msgid "Member Category"
+msgstr ""
+
+#: code/competitors.php:166 code/members.php:7 code/teamplayers.php:136
+msgid "Member Club"
+msgstr ""
+
+#: code/members.php:6 code/members.php:16
+msgid "Member Clubs"
+msgstr ""
+
+#: code/invoices.php:90 code/members.php:83
+msgid "Member Data"
+msgstr "Данные Члена Клуба"
+
+#: code/members_options_settings.php:56
+msgid "Member Options"
+msgstr ""
+
+#: code/members_options_settings.php:26
+msgid "Member options saved."
+msgstr ""
+
+#: code/members.php:30 code/members.php:41 code/members_categories_page.php:5
+#: code/members_export.php:11
+msgid "Members"
+msgstr "Члены"
+
+#: code/members.php:145 code/members.php:453 code/members.php:562
+msgid "Middle"
+msgstr "Отчество"
+
+#: code/members.php:204 code/members.php:655
+msgid "middle name"
+msgstr "отчество"
+
+#: code/competitionformat_individual.php:116
+msgid "More is better"
+msgstr "чем больше, тем лучше"
+
+#: code/competitors.php:132 code/competitors.php:290 code/competitors.php:340
+#: code/invoices.php:258 code/members.php:144 code/members.php:322
+#: code/members.php:450 code/members.php:562
+msgid "Name"
+msgstr "Фамилия"
+
+#: code/members.php:200 code/members.php:653
+msgid "name"
+msgstr "фамилия"
+
+#: code/invoices_options_settings.php:57 code/members_options_settings.php:77
+msgid "Name for custom value #1"
+msgstr ""
+
+#: code/invoices_options_settings.php:59 code/members_options_settings.php:79
+msgid "Name for custom value #2"
+msgstr ""
+
+#: code/members_options_settings.php:81
+msgid "Name for custom value #3"
+msgstr ""
+
+#: code/members_options_settings.php:83
+msgid "Name for custom value #4"
+msgstr ""
+
+#: code/competitions.php:45
+msgid "New Competition"
+msgstr ""
+
+#: code/competitions.php:25
+msgid "New Competition Category"
+msgstr ""
+
+#: code/compgroups.php:42
+msgid "New Competition Group"
+msgstr ""
+
+#: code/compgroups.php:22
+msgid "New Competition Group Category"
+msgstr ""
+
+#: code/competitors.php:14
+msgid "New Competitor"
+msgstr ""
+
+#: code/invoices.php:38
+msgid "New Invoice"
+msgstr ""
+
+#: code/invoices.php:18
+msgid "New Invoice Category"
+msgstr ""
+
+#: code/matches.php:14
+msgid "New Match"
+msgstr ""
+
+#: code/members.php:35
+msgid "New Member"
+msgstr ""
+
+#: code/members.php:15
+msgid "New Member Club"
+msgstr "Новый Член Клуба"
+
+#: code/teamplayers.php:14
+msgid "New Team Player"
+msgstr ""
+
+#: code/bulk_import.php:49
+msgid "Next Step"
+msgstr ""
+
+#: code/compgroups.php:45
+msgid "No Competition Groups found"
+msgstr ""
+
+#: code/compgroups.php:46
+msgid "No Competition Groups found in Trash"
+msgstr ""
+
+#: code/competitions.php:48
+msgid "No Competitions found"
+msgstr ""
+
+#: code/competitions.php:49
+msgid "No Competitions found in Trash"
+msgstr ""
+
+#: code/competitors.php:17
+msgid "No Competitors found"
+msgstr ""
+
+#: code/competitors.php:18
+msgid "No Competitors found in Trash"
+msgstr ""
+
+#: code/invoices.php:41
+msgid "No Invoices found"
+msgstr ""
+
+#: code/invoices.php:42
+msgid "No Invoices found in Trash"
+msgstr ""
+
+#: code/matches.php:17
+msgid "No Matches found"
+msgstr ""
+
+#: code/matches.php:18
+msgid "No Matches found in Trash"
+msgstr ""
+
+#: code/members.php:38
+msgid "No members found"
+msgstr ""
+
+#: code/members.php:39
+msgid "No members found in Trash"
+msgstr ""
+
+#: code/competitionformat_none.php:29
+msgid "no ranking"
+msgstr ""
+
+#: code/teamplayers.php:17
+msgid "No Team Players found"
+msgstr ""
+
+#: code/teamplayers.php:18
+msgid "No Team Players found in Trash"
+msgstr ""
+
+#: code/competitionformat_individual.php:82
+#: code/competitionformat_individual.php:96
+msgid "None"
+msgstr ""
+
+#: code/competitionformat_none.php:12 code/competitionformat_none.php:20
+#: code/competitions.php:114 code/competitions_shortcodes.php:37
+#: code/competitors.php:101 code/competitors.php:116 code/compgroups.php:100
+#: code/invoices.php:387 code/invoices.php:393 code/matches.php:113
+#: code/matches.php:308 code/members_shortcodes.php:179 code/teamplayers.php:82
+#: code/teamplayers.php:99
+msgid "none"
+msgstr ""
+
+#: code/members.php:148 code/members.php:460 code/members.php:563
+msgid "Number"
+msgstr ""
+
+#: code/members.php:206 code/members.php:657
+msgid "number"
+msgstr ""
+
+#: code/competitionformat_knockout.php:494
+#: code/competitionformat_knockout.php:559
+msgid "Number #"
+msgstr ""
+
+#: code/members_widgets.php:133
+msgid "Number of days after today"
+msgstr ""
+
+#: code/members_widgets.php:129
+msgid "Number of days before today"
+msgstr ""
+
+#: code/matches.php:156
+msgid "Number of matches vs. each competitor"
+msgstr ""
+
+#: code/competitionformat_individual.php:69
+msgid "Number of rounds"
+msgstr ""
+
+#: orient_club_management.php:243
+msgid "OCM plugin version"
+msgstr ""
+
+#. Author of the plugin
+msgid "Oleksii Ignatiev"
+msgstr ""
+
+#: code/competitionformat_individual.php:120
+msgid "Order"
+msgstr ""
+
+#: orient_club_management.php:167 orient_club_management.php:168
+msgid "Orienteering Club"
+msgstr "Клуб Спортивного Ориентирования"
+
+#. Name of the plugin
+#: orient_club_management.php:176 orient_club_management.php:183
+#: orient_club_management.php:190 orient_club_management.php:206
+#: code/members_export.php:36
+msgid "Orienteering Club Management"
+msgstr "Управление Клубом"
+
+#: code/competitions.php:20
+msgid "Parent Competition Category"
+msgstr ""
+
+#: code/competitions.php:21
+msgid "Parent Competition Category:"
+msgstr ""
+
+#: code/compgroups.php:17
+msgid "Parent Competition Group Category"
+msgstr ""
+
+#: code/compgroups.php:18
+msgid "Parent Competition Group Category:"
+msgstr ""
+
+#: code/compgroups.php:47
+msgid "Parent Competition Group:"
+msgstr ""
+
+#: code/competitions.php:50
+msgid "Parent Competition:"
+msgstr ""
+
+#: code/competitors.php:19
+msgid "Parent Competitor:"
+msgstr ""
+
+#: code/invoices.php:13
+msgid "Parent Invoice Category"
+msgstr ""
+
+#: code/invoices.php:14
+msgid "Parent Invoice Category:"
+msgstr ""
+
+#: code/invoices.php:43
+msgid "Parent Invoice:"
+msgstr ""
+
+#: code/matches.php:19
+msgid "Parent Match:"
+msgstr ""
+
+#: code/members.php:10
+msgid "Parent Member Club"
+msgstr ""
+
+#: code/members.php:11
+msgid "Parent Member Club:"
+msgstr ""
+
+#: code/members.php:40
+msgid "Parent Member:"
+msgstr ""
+
+#: code/teamplayers.php:19
+msgid "Parent Team Player:"
+msgstr ""
+
+#: code/invoices.php:481
+msgid "payment date"
+msgstr ""
+
+#: code/invoices.php:211 code/members.php:151 code/members.php:323
+#: code/members.php:468 code/members.php:566 code/members_shortcodes.php:73
+msgid "Phone"
+msgstr ""
+
+#: code/members.php:210 code/members.php:661
+msgid "phone"
+msgstr ""
+
+#: code/competitionformat_individual.php:162
+#: code/competitionformat_individual.php:168
+#: code/competitionformat_league.php:92 code/competitionformat_league.php:98
+msgid "Played"
+msgstr ""
+
+#: code/competitionformat_individual.php:162
+#: code/competitionformat_individual.php:169
+#: code/competitionformat_league.php:92 code/competitionformat_league.php:99
+msgid "Points"
+msgstr ""
+
+#: code/competitionformat_league.php:54
+msgid "Points Won"
+msgstr ""
+
+#: code/bulk_import.php:48
+msgid "Previous Step"
+msgstr ""
+
+#: code/members_options_settings.php:61
+msgid "Privacy"
+msgstr ""
+
+#: code/bulk_import.php:23 code/bulk_import.php:50
+msgid "Publish"
+msgstr ""
+
+#: code/competitionformat_knockout.php:101
+#: code/competitionformat_knockout.php:105
+msgid "Rank"
+msgstr "Квалификация"
+
+#: code/competitions.php:93 code/compgroups.php:90
+msgid "Ranking"
+msgstr ""
+
+#: code/matches.php:131 code/matches.php:222 code/matches.php:290
+msgid "Result"
+msgstr ""
+
+#: code/competitionformat_individual.php:78
+msgid "Round score separator"
+msgstr ""
+
+#: code/bulk_import.php:24 code/bulk_import.php:51
+msgid "Save Draft"
+msgstr ""
+
+#: code/invoices_options_settings.php:66
+msgid "Save Invoice Options"
+msgstr ""
+
+#: code/members_options_settings.php:90
+msgid "Save Member Options"
+msgstr ""
+
+#: code/competitionformat_knockout.php:71
+msgid "Scheme size"
+msgstr ""
+
+#: code/competitionformat_individual.php:86
+#: code/competitionformat_individual.php:101
+#: code/competitionformat_individual.php:112
+#: code/competitionformat_individual.php:120
+#: code/competitionformat_league.php:60
+msgid "Scoring System"
+msgstr ""
+
+#: code/competitions.php:18
+msgid "Search Competition Categories"
+msgstr ""
+
+#: code/compgroups.php:15
+msgid "Search Competition Group Categories"
+msgstr ""
+
+#: code/compgroups.php:44
+msgid "Search Competition Groups"
+msgstr ""
+
+#: code/competitions.php:47
+msgid "Search Competitions"
+msgstr ""
+
+#: code/competitors.php:16
+msgid "Search Competitors"
+msgstr ""
+
+#: code/invoices.php:11
+msgid "Search Invoice Categories"
+msgstr ""
+
+#: code/invoices.php:40
+msgid "Search Invoices"
+msgstr ""
+
+#: code/matches.php:16
+msgid "Search Matches"
+msgstr ""
+
+#: code/members.php:8
+msgid "Search Member Clubs"
+msgstr ""
+
+#: code/members.php:37
+msgid "Search Members"
+msgstr ""
+
+#: code/teamplayers.php:16
+msgid "Search Team Players"
+msgstr ""
+
+#: code/bulk_import.php:31
+msgid "Select all"
+msgstr ""
+
+#: code/invoices.php:173
+msgid "select category from list..."
+msgstr ""
+
+#: code/competitors.php:170 code/teamplayers.php:139
+msgid "select club from list..."
+msgstr ""
+
+#: code/invoices.php:147 code/invoices.php:390 code/invoices_shortcodes.php:60
+#: code/invoices_shortcodes.php:67 code/invoices_shortcodes.php:74
+msgid "Service"
+msgstr ""
+
+#: code/invoices.php:426 code/invoices.php:482
+msgid "service"
+msgstr ""
+
+#: code/competitions.php:95 code/competitors.php:64 code/compgroups.php:92
+#: code/matches.php:63 code/members.php:89
+msgid "Shortcodes"
+msgstr ""
+
+#: code/members.php:173
+msgid "Specify CSV-file"
+msgstr ""
+
+#: code/members_widgets.php:18
+msgid "Sports Club"
+msgstr ""
+
+#: code/bulk_import.php:52
+msgid "Start Again"
+msgstr ""
+
+#: code/members.php:478
+msgid "Start date"
+msgstr ""
+
+#: code/members.php:215 code/members.php:666
+msgid "start date"
+msgstr ""
+
+#: code/members.php:164 code/members.php:628 code/members_export.php:17
+#: code/members_shortcodes.php:118
+msgid "Start date membership"
+msgstr ""
+
+#: code/members.php:147 code/members.php:458 code/members.php:563
+msgid "Street"
+msgstr ""
+
+#: code/members.php:205 code/members.php:656
+msgid "street"
+msgstr ""
+
+#: code/competitionformat_individual.php:83
+#: code/competitionformat_individual.php:97
+msgid "Sum"
+msgstr ""
+
+#: code/teamplayers.php:117 code/teamplayers.php:208
+msgid "Team"
+msgstr ""
+
+#: code/competitors.php:137
+msgid "Team Name"
+msgstr ""
+
+#: code/teamplayers.php:10
+msgid "Team Player"
+msgstr ""
+
+#: code/teamplayers.php:58
+msgid "Team Player Data"
+msgstr ""
+
+#: code/competitors.php:63 code/teamplayers.php:9 code/teamplayers.php:20
+#: code/teamplayers.php:63
+msgid "Team Players"
+msgstr ""
+
+#: code/members_widgets.php:137
+msgid "Text for empty list"
+msgstr ""
+
+#: code/matches.php:135 code/matches.php:223 code/matches.php:288
+msgid "Time"
+msgstr ""
+
+#: code/competitionformat_knockout.php:482
+msgid "unknown"
+msgstr ""
+
+#: code/bulk_import.php:32
+msgid "Unselect all"
+msgstr ""
+
+#: code/competitions.php:23
+msgid "Update Competition Category"
+msgstr ""
+
+#: code/compgroups.php:20
+msgid "Update Competition Group Category"
+msgstr ""
+
+#: code/invoices.php:16
+msgid "Update Invoice Category"
+msgstr ""
+
+#: code/members.php:13
+msgid "Update Member Club"
+msgstr ""
+
+#: code/competitionformat_individual.php:112
+msgid "Use best #"
+msgstr ""
+
+#: code/competitions.php:178 code/competitors.php:224 code/compgroups.php:139
+#: code/matches.php:176 code/members.php:236
+msgid ""
+"Use the following shortcodes by copy/pasting into a post or page (see "
+"documentation)."
+msgstr ""
+
+#: code/members.php:166 code/members.php:490 code/members.php:638
+#: code/members_export.php:22
+msgid "User name"
+msgstr ""
+
+#: code/members.php:218 code/members.php:672
+msgid "user name"
+msgstr ""
+
+#: code/competitors.php:157 code/invoices.php:161 code/matches.php:143
+#: code/members.php:174 code/teamplayers.php:127
+msgid "View and select entries for creation"
+msgstr ""
+
+#: code/competitions.php:46
+msgid "View Competition"
+msgstr ""
+
+#: code/compgroups.php:43
+msgid "View Competition Group"
+msgstr ""
+
+#: code/competitors.php:15
+msgid "View Competitor"
+msgstr ""
+
+#: code/invoices.php:39
+msgid "View Invoice"
+msgstr ""
+
+#: code/matches.php:15
+msgid "View Match"
+msgstr ""
+
+#: code/members.php:36
+msgid "View Member"
+msgstr ""
+
+#: code/teamplayers.php:15
+msgid "View Team Player"
+msgstr ""
+
+#: code/members_widgets.php:142
+msgid "Visible after login only"
+msgstr ""
+
+#: code/competitionformat_knockout.php:238
+msgid "vs"
+msgstr ""
+
+#: code/matches.php:126
+msgid "vs."
+msgstr ""
+
+#: code/competitionformat_league.php:92 code/competitionformat_league.php:100
+msgid "W - D - L"
+msgstr ""
+
+#: code/competitionformat_league.php:56
+msgid "Win-Draw-Loss = 2-1-0"
+msgstr ""
+
+#: code/competitionformat_league.php:55
+msgid "Win-Draw-Loss = 3-1-0"
+msgstr ""
+
+#: code/competitionformat_knockout.php:228
+#: code/competitionformat_knockout.php:232
+#: code/competitionformat_knockout.php:240
+#: code/competitionformat_knockout.php:243
+#: code/competitionformat_knockout.php:281
+#: code/competitionformat_knockout.php:285
+#: code/competitionformat_knockout.php:387
+msgid "Winner"
+msgstr ""
+
+#: code/competitionformat_knockout.php:495
+#: code/competitionformat_knockout.php:559
+msgid "Winner to"
+msgstr ""
+
+#: orient_club_management.php:201 orient_club_management.php:222
+#: orient_club_management.php:237
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: code/members.php:149 code/members.php:462 code/members.php:563
+msgid "Zip"
+msgstr ""
+
+#: code/members.php:208 code/members.php:658
+msgid "zip"
+msgstr ""

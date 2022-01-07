@@ -4,5 +4,10 @@ jQuery(document).ready(function() {
             changeMonth: true,
             changeYear: true
         }
-    );
+    );  
+    
+    jQuery('.entry-myself').submit( function(e){
+        e.peventDefault();
+        console.log(e);
+    });
 });
