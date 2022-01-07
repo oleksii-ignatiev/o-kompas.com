@@ -123,13 +123,13 @@ class Base extends Root {
 	const O_OPTM_CSS_COMB 			= 'optm-css_comb';
 	const O_OPTM_CSS_COMB_EXT_INL	= 'optm-css_comb_ext_inl';
 	const O_OPTM_UCSS 				= 'optm-ucss';
+	const O_OPTM_UCSS_INLINE 		= 'optm-ucss_inline';
 	const O_OPTM_UCSS_WHITELIST 	= 'optm-ucss_whitelist';
-	const O_OPTM_CSS_HTTP2 			= 'optm-css_http2';
+	const O_OPTM_UCSS_EXC 			= 'optm-ucss_exc';
 	const O_OPTM_CSS_EXC 			= 'optm-css_exc';
 	const O_OPTM_JS_MIN 			= 'optm-js_min';
 	const O_OPTM_JS_COMB 			= 'optm-js_comb';
 	const O_OPTM_JS_COMB_EXT_INL	= 'optm-js_comb_ext_inl';
-	const O_OPTM_JS_HTTP2 			= 'optm-js_http2';
 	const O_OPTM_JS_EXC 			= 'optm-js_exc';
 	const O_OPTM_HTML_MIN 			= 'optm-html_min';
 	const O_OPTM_HTML_LAZY 			= 'optm-html_lazy';
@@ -237,8 +237,6 @@ class Base extends Root {
 	## -------------------------------------------------- ##
 	## --------------		 Misc 		----------------- ##
 	## -------------------------------------------------- ##
-	const O_MISC_HTACCESS_FRONT 		= 'misc-htaccess_front';
-	const O_MISC_HTACCESS_BACK 			= 'misc-htaccess_back';
 	const O_MISC_HEARTBEAT_FRONT		= 'misc-heartbeat_front';
 	const O_MISC_HEARTBEAT_FRONT_TTL	= 'misc-heartbeat_front_ttl';
 	const O_MISC_HEARTBEAT_BACK			= 'misc-heartbeat_back';
@@ -405,13 +403,13 @@ class Base extends Root {
 		self::O_OPTM_CSS_COMB 			=> false,
 		self::O_OPTM_CSS_COMB_EXT_INL	=> false,
 		self::O_OPTM_UCSS 				=> false,
+		self::O_OPTM_UCSS_INLINE 		=> false,
 		self::O_OPTM_UCSS_WHITELIST		=> array(),
-		self::O_OPTM_CSS_HTTP2 			=> false,
+		self::O_OPTM_UCSS_EXC			=> array(),
 		self::O_OPTM_CSS_EXC 			=> array(),
 		self::O_OPTM_JS_MIN 			=> false,
 		self::O_OPTM_JS_COMB 			=> false,
 		self::O_OPTM_JS_COMB_EXT_INL	=> false,
-		self::O_OPTM_JS_HTTP2 			=> false,
 		self::O_OPTM_JS_EXC 			=> array(),
 		self::O_OPTM_HTML_MIN 			=> false,
 		self::O_OPTM_HTML_LAZY 			=> array(),
@@ -507,8 +505,6 @@ class Base extends Root {
 		self::O_CRAWLER_COOKIES 		=> array(),
 
 		// Misc
-		self::O_MISC_HTACCESS_FRONT 		=> '',
-		self::O_MISC_HTACCESS_BACK 			=> '',
 		self::O_MISC_HEARTBEAT_FRONT 		=> false,
 		self::O_MISC_HEARTBEAT_FRONT_TTL 	=> 0,
 		self::O_MISC_HEARTBEAT_BACK 		=> false,
@@ -577,9 +573,6 @@ class Base extends Root {
 		self::O_DEBUG_EXC 				=> array(),
 
 		self::O_IMG_OPTM_WEBP_REPLACE 	=> false,
-
-		self::O_MISC_HTACCESS_FRONT 	=> '',
-		self::O_MISC_HTACCESS_BACK		=> '',
 
 	);
 

@@ -253,3 +253,19 @@
     width:80%;
 	float:left;
 }
+
+
+.entry-table button {
+    background: transparent;
+    padding: 0;
+    height: 25px;
+}
+.entry-table button svg{
+    height: 25px;
+}
+.entry-table button:hover {
+    background: initial;
+}
+.entry-table button:hover svg{
+    fill: red;
+}
